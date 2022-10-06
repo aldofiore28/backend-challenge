@@ -23,5 +23,9 @@
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.17.9",
     "nodemon": "^2.0.15"
+  },
+  "volta": {
+    "node": "12.22.12",
+    "npm": "6.14.17"
   }
 }

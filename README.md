@@ -4,7 +4,7 @@
 Welcome! This coding challenge is designed to explore your backend skills. You will be writing an Express middleware function.
 
 ### The challenge
-The developers at ASD corporation have built a new API. However the developers have forgotten to implement any request validation. 
+The developers at ASD corporation have built a new API. However, the developers have forgotten to implement any request validation. 
 
 The developers would like you to write a middleware function that checks all incoming requests against a set of predefined rules to ensure that the appropriate parameters have been supplied. The developers would prefer if you avoid installing additional packages, unless it is absolutely necessary. Validation should not be done via a 3rd party package. 
 
@@ -24,9 +24,6 @@ Also, there is a chance that the rules do not cover all the existing routes. In 
 1. Clone this repo
 2. `npm i` to install dependencies. Node v12^ preferable
 3. The routes to be protected are found under `/api/account/index.js`
-
-### Submission guide
-Please upload the code to a private repo, invite tech@cord.co and drop your contact person a note once you are done :) All the best!
 
 ### How we review
 - **Code quality**: Is the code easy to understand and maintain? Is the coding style consistent with nodejs best practices? Do you demonstrate a good grasp of JavaScript, especially ES6?
